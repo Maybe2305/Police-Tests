@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Policequiz</string>
+    <string name="quiz_police">Quiz Police</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="check">Выбрать</string>
+    <string name="title_activity_choice_ticket">choice_ticket_activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
